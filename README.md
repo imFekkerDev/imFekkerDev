@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Pedro!</h1>
+<h3 align="center">I'm a Web Development Student</h3>
 
-<!--
-**imFekkerDev/imFekkerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
+<p> <strong> 🔭 I'm always learning!! </strong> </p>
+<hr />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="typescript" width="50" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="nodejs" width="50" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="react" width="50" height="40"/>
+</p>
+<hr />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div text-align='center'>
+  
+<hr />
